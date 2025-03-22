@@ -2,7 +2,8 @@
 
 ToneDown is a mobile application designed to help individuals manage tinnitus through personalized interventions. By leveraging advanced statistical modeling, the app learns from user feedback to provide increasingly effective recommendations over time.
 
-[![ToneDown Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![ToneDown Demo](https://img.youtube.com/vi/qvT7YSbdJiI/maxresdefault.jpg)](https://youtube.com/shorts/qvT7YSbdJiI)
+
 
 ## Project Overview
 
