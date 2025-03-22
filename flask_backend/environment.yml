@@ -1,0 +1,9 @@
+name: hack_hpi
+channels:
+    - conda-forge
+dependencies:
+    - python=3.12
+    - pip
+    - ninja
+    - cxx-compiler
+    - nccl
